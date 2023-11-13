@@ -15,7 +15,7 @@ bot = Client(
 DEVS = ["UP_UO"] 
 
 
-async def start_helalbot():
+async def start_ahmedbot():
     print("تم تشغيل الصانع بنجاح..💗")
     await bot.start()
     for hh in DEVS:
