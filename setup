@@ -1,5 +1,5 @@
 #!/bin/bash
-### zombie Music Bot Installer
+### Mody Music Bot Installer
 
 pprint (){
 	cred='\033[0;31m'
@@ -95,4 +95,4 @@ fi
 echo """OWNER
 Sasa""" > .env
 clear
-pprint "\n\n\n\n\n zombie Bot Completed!" "cgreen"
+pprint "\n\n\n\n\n Mody Bot Completed!" "cgreen"
