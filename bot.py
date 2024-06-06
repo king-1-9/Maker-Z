@@ -17,7 +17,7 @@ DEVS = ["UP_UO"]
 
 async def start_ahmedbot():
     print("تم تشغيل الصانع بنجاح..💗")
-    #await bot.start()
+    await bot.start()
     for hh in DEVS:
         try:
             await bot.send_message(hh, "**تم تشغيل الصانع بنجاح ...🥀**")
